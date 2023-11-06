@@ -6,7 +6,7 @@ description: "App School is your go-to destination for all things software engin
 baseurl: "/" # the subpath of your site, e.g. "/blog"
 url: "https://appschool.pro" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 
-# skin: "/assets/css/skins/default.css"
+skin: "/assets/css/skins/default.css"
 logo: "/images/logo.png" # path of site logo, e.g. "/images/logo.png"
 locale: "en-US"
 date_format: "%B %-d, %Y"
