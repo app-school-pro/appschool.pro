@@ -2,7 +2,6 @@
 layout: page
 ---
 
-# About App School
 Welcome to App School, your gateway to mastering the art of software engineering. We're thrilled to have you here on our journey of learning and growth.
 
 # Our Mission
