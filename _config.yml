@@ -14,29 +14,36 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 theme: jekyll-theme-so-simple
+
 # remote_theme: mmistakes/so-simple-theme
+
 skin: "/assets/css/skins/default.css"
-locale: en-US
-title: "My Awesome Site"
-description: "It really is the best."
-baseurl: # the subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: # path of site logo, e.g. "/images/logo.png"
+locale: "en-US"
+title: "App School"
+description: "App School is your go-to destination for all things software engineering. We're here to support your journey to becoming a proficient software developer. Whether you're new to coding or a seasoned pro, we've got something for everyone."
+baseurl: "/" # the subpath of your site, e.g. "/blog"
+url: "https://appschool.pro" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+logo: "/assets/logo.png" # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
+
 mathjax:
   enable: # MathJax equations, e.g. true, false (default)
   combo:  # "tex-svg" (default), "tex-mml-chtml", etc.: docs.mathjax.org/en/latest/web/components/combined.html
   tags:  # "none", "ams" (default), "all"
+
 google_fonts:
   - name: "Source Sans Pro"
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
+
 google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
+
 disqus:
   shortname: # Disqus shortname, e.g. "my_disqus_shortname"
+
 twitter:
   username: # site's Twitter username, e.g. "mmistakes"
 
@@ -91,14 +98,14 @@ defaults:
 
 # Site Author
 author:
-  name:
-  picture:
-  email:
-  twitter:
-  links:
-    - title:
-      url:
-      icon:
+  name: App School
+  email: info@appschool.pro
+  # picture:
+  # twitter:
+  # links:
+  #   - title:
+  #     url:
+  #     icon:
 
 # Footer Links
 footer_links:
